@@ -1,5 +1,5 @@
 # coding: utf8
-# 安装依赖：numpy, pandas, Pillow, request
+# 安装依赖：numpy,  Pillow, requests
 from bs4 import BeautifulSoup as bs
 from PIL import Image
 from io import BytesIO
