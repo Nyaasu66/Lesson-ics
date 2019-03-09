@@ -7,6 +7,7 @@ import time
 import requests
 import uuid
 import sys
+import re
 
 # 设定时区
 tz_utc_8 = timezone(timedelta(hours=8))
